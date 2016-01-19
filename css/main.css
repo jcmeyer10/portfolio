@@ -7,3 +7,8 @@
   max-height: 400px;
   max-width: 400px;
 }
+
+#bio {
+  padding: 50px;
+  vertical-align: center;
+}

@@ -172,6 +172,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
+    background: url(../img/black-linen.png);
 }
 
 .service-item {
@@ -217,6 +218,7 @@ hr.small {
 
 .call-to-action {
     padding: 50px 0;
+    background: url(../img/flower.jpg)
 }
 
 .call-to-action .btn {

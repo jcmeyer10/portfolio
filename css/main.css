@@ -2,3 +2,8 @@
   max-width: 150px;
   max-height: 100px;
 }
+
+.portfolio-item img {
+  max-height: 400px;
+  max-width: 400px;
+}

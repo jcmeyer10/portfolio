@@ -162,6 +162,12 @@ hr.small {
     -o-background-size: cover;
 }
 
+/* Divider */
+
+#divider {
+    background: url(../img/black-linen.png);
+}
+
 /* About */
 
 #about {
